@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @chaeeun7131
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+#한국로슈
 
-<!---
-chaeeun7131/chaeeun7131 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+기존 다소 정보가 부족했던 메인 페이지 밑에 정보를 추가해서 리뉴얼 된 홈페이지를 제작해 보았습니다.
+헤더 부분은 로슈 로고의 색상을 사용하여 통일감을 주었습니다.
