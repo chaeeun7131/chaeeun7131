@@ -34,8 +34,7 @@
     background-position: center;
     position: absolute;
     left: 50%;
-transform: translateX(-50%);
-
+    transform: translateX(-50%);
 }
 
 #sub1-1 #sub-header .container{
@@ -76,7 +75,7 @@ transform: translateX(-50%);
 
 #sub1-1 #main article img{
     width: 50%;
-    height: 420px;
+    height: 420px;    
 }
 
 #sub1-1 #main article .article-group:first-of-type{
@@ -86,7 +85,16 @@ transform: translateX(-50%);
 }
 
 
+
+#sub1-1 #main article p{
+    /* outline: 1px solid red; */
+    padding-top: 20px;
+    /* padding-bottom: 20px; */
+}
+
+
 #sub1-1 #main article p em{
     color: var(--main-color);
     font-style: normal;
+    /* outline: 1px solid red; */
 }
